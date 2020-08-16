@@ -1,0 +1,6 @@
+module Pods_generationlaptops {
+  umbrella header "Pods-generationlaptops-umbrella.h"
+
+  export *
+  module * { export * }
+}

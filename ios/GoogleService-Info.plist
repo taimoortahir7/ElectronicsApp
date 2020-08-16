@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>774108787979-ss2pkf1ke5vbr4mu1u5jkto25r1ke4oi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.774108787979-ss2pkf1ke5vbr4mu1u5jkto25r1ke4oi</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCPTFFQWLpEh32NsGK56ft2RvKjrK3fxDg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>774108787979</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.taimoor.laptopsproject</string>
+	<key>PROJECT_ID</key>
+	<string>laptopsrnproject</string>
+	<key>STORAGE_BUCKET</key>
+	<string>laptopsrnproject.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:774108787979:ios:0bb6a006a36e0ebfa29e0e</string>
+	<key>DATABASE_URL</key>
+	<string>https://laptopsrnproject.firebaseio.com</string>
+</dict>
+</plist>
